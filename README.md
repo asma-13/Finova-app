@@ -74,9 +74,9 @@ The project is organized into logical modules to separate concerns:
 ## 📩 Contact & Connect
 I'm always open to discussing Android development, AI integration, or potential collaborations. 
 
-* **LinkedIn:** [Asma Channa](https://www.linkedin.com/in/iasmachanna/)
+* **LinkedIn:** [Check Out](https://www.linkedin.com/in/iasmachanna/)
 * **Email:** [Mail Me](mailto:asmachanna.becsef22@iba-suk.edu.pk)
-* **GitHub:** [Asma Channa](https://github.com/asma-13)
+* **GitHub:** [Visit ME](https://github.com/asma-13)
 
 ---
 
